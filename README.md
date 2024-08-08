@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,vite,vscode,figma,androidstudio,obsidian)](https://skillicons.dev)
+
 <!--
 **spstefan/spstefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
