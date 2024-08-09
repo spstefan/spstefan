@@ -7,4 +7,4 @@ I'm a student in informatics and business. Currently working on a project to lea
 ## My Portfolio:
 website link
 
-## Are you a recruiter? Check out my projects here ⬇
+### Are you a recruiter? Check out my pinned projects here ⬇
