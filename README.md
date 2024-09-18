@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a student in informatics and business. Currently working on a project to learn React!
+I'm a student in informatics and business. Currently working on a project on the DHIS2 platform.
 
 ## My Portfolio:
 Coming soon... 
