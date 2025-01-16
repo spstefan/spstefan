@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a student in informatics and business. Currently working on a personal project - a full stack industrial data platform. 
+I'm a master's student of informatics and business. Currently working on a personal project - a full stack industrial data platform. 
 
 *Are you a **recruiter***? Check out my pinned projects, or contact me at `stefanspa@icloud.com` for a chat. 
 
